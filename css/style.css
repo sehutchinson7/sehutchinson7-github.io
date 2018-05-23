@@ -147,7 +147,7 @@ h2.section-title{
 
 .default-menu.navbar-default .navbar-toggle {
     border-radius: 0;
-    border-width: 2px;
+    /* border-width: 2px; */
     margin-top: 16px;
     margin-bottom: 16px;
 }
@@ -914,5 +914,11 @@ strong.expert-tag{
 } */
 
 video {
-  width: 100%;
+  width: 100vw;
+  height: auto;
+  z-index: -1;
+}
+
+.nav {
+  background-color: black;
 }
