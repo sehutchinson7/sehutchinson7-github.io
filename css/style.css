@@ -786,6 +786,15 @@ video {
   left: 0%;
   right: 0;
 }
+
 .nav {
   background-color: black;
+  height: 50px;
+  line-height: 10px;
+  /* position: fixed;
+  * top: 0; */
+}
+
+ul.nav {
+  float: right;
 }
