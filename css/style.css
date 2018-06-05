@@ -696,6 +696,7 @@ strong.expert-tag{
     display: none !important;
 } */
 /*===== contact ====*/
+
 /* .contact{
     padding-top: 90px;
 }
@@ -863,3 +864,34 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
 } */
+
+section.contact {
+    background-color:#121212;
+}
+
+
+.fa-phone {
+  color: 	#A9A9A9;
+  /* padding: 6px; */
+}
+
+.fab {
+  color: A9A9A9;
+  padding-top: 6px;
+}
+
+.fas {
+  color: A9A9A9;
+  padding-top: 6px;
+}
+
+a.contacts {
+  font-size: 16px;
+  padding-top: 6px;
+}
+
+p.contacts {
+  font-size: 14px;
+  padding-top: 6px;
+  color:#337ab7;
+}
