@@ -32,7 +32,7 @@ section{
 }
 
 .header-name{
-  font-size: 75px;
+  font-size: 55px;
 }
 
 .sub-header {
@@ -821,7 +821,6 @@ video {
   top: 0%;
   left: 0%;
   right: 0;
-
 }
 
 .nav {
@@ -850,6 +849,10 @@ h5 {
 
 h4 {
   color: black;
+}
+
+h2 {
+  color: #d3d3d3;
 }
 /* .img {
     position: relative;

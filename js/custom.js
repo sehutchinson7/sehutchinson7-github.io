@@ -1,8 +1,8 @@
 $(document).ready(function() {
     //four slide
     $(".four-slide").owlCarousel({
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
-      items : 4,    
+      // autoPlay: 3000, //Set AutoPlay to 3 seconds
+      items : 4,
       transitionStyle:"fade",
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3]
@@ -11,7 +11,7 @@ $(document).ready(function() {
     //three slide
     $(".three-slide").owlCarousel({
       autoPlay: 3000, //Set AutoPlay to 3 seconds
-      items : 3,    
+      items : 3,
       transitionStyle:"fade",
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3]
@@ -20,14 +20,14 @@ $(document).ready(function() {
     //six slide
     $(".six-slide").owlCarousel({
       autoPlay: 3000, //Set AutoPlay to 3 seconds
-      items : 6,    
+      items : 6,
       nav : true,
       transitionStyle:"fade",
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3]
 
     });
-    
+
     //smooth scroll
     $(function() {
       $('.scroll').click(function() {
@@ -43,4 +43,4 @@ $(document).ready(function() {
         }
       });
     });
-});    
+});
