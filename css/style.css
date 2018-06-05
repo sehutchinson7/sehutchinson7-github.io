@@ -39,6 +39,10 @@ section{
   font-size: 30 px;
 }
 
+.app-img{
+  height: 320px;
+}
+
 .header-name, .sub-header {
   text-shadow: 1px 1px 15px lightblue;
 }
