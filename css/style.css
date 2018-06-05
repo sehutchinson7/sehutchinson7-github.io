@@ -30,6 +30,22 @@ section{
     padding-left: 0;
     padding-right: 0;
 }
+
+.header-name{
+  font-size: 75px;
+}
+
+.sub-header {
+  font-size: 30 px;
+}
+
+.app-img{
+  height: 320px;
+}
+
+.header-name, .sub-header {
+  text-shadow: 1px 1px 15px lightblue;
+}
 .small-tag {
     color: #777;
     font-family: "Raleway",sans-serif;
@@ -41,7 +57,7 @@ section{
 }
 h2.section-title{
     text-transform: uppercase;
-    color: #131313;
+    color: #8FC93F;
     margin-top: 0;
     margin-bottom: 30px;
     word-spacing: 5px;
@@ -139,7 +155,7 @@ h2.section-title{
     margin-bottom: 16px;
 }
 .default-menu.navbar-default .navbar-nav > li > a{
-    font-size: 11px;
+    font-size: 18px;
     font-weight: 600;
     letter-spacing: 0;
     line-height: 40px !important;
@@ -415,8 +431,11 @@ section.recent-event{
 }
 /*===== what we do ====*/
 .what-we-do{
-    padding-bottom: 55px;
-    padding-top: 80px;
+  background-color: #121212;
+    /* padding-bottom: 55px; */
+    /* padding-top: 80px; */
+
+
 }
 .what-we-do .do-box{
     border: 1px solid #eee;
@@ -484,6 +503,14 @@ section.recent-event{
 .about-content{
     margin: 60px 0 30px 20px;
 }
+
+.about-photo{
+    box-shadow: 1px 1px 16px lightblue;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    width: 40vw;
+}
+
 .about-content h2{
     color: #8FC93F;
 }
@@ -496,9 +523,13 @@ section.recent-event{
 .about-us img, .carousel-inner > .item > img{
     height: 400px;
 }
+
 /*===== our service ====*/
 .four-slide .single-slide img{
     width: 100%;
+}
+.green {
+  color:#8FC93F;
 }
 .single-slide{
     position: relative;
