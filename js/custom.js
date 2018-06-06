@@ -10,7 +10,7 @@ $(document).ready(function() {
     });
     //three slide
     $(".three-slide").owlCarousel({
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
+      // autoPlay: 3000, //Set AutoPlay to 3 seconds
       items : 3,
       transitionStyle:"fade",
       itemsDesktop : [1199,3],
