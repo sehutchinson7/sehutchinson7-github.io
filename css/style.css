@@ -849,7 +849,7 @@ h5 {
 }
 
 h4 {
-  color: black;
+  color: #d3d3d3;
 }
 
 h2 {
@@ -894,4 +894,14 @@ p.contacts {
   font-size: 14px;
   padding-top: 6px;
   color:#337ab7;
+}
+
+#service.our-service {
+  background-color: #2e2e2e;
+}
+
+#gallery {
+  font-size: 18px;
+  color: #d3d3d3;
+  padding-bottom: 20px;
 }
