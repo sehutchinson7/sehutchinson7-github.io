@@ -948,3 +948,13 @@ p.contacts {
 .text-shadow {
   text-shadow: 1px 1px 5px black;
 }
+
+li {
+  text-align: left;
+  font-size: 22px;
+  color: #d3d3d3;
+}
+
+section#skills {
+  background-color: #121212;
+}
