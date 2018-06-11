@@ -966,3 +966,7 @@ section#skills {
 section#what-we-do {
   padding-bottom: 50px;
 }
+
+img.thumbnail {
+  height: 316px;
+}
