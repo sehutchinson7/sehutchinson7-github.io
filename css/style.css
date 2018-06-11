@@ -841,6 +841,8 @@ ul.nav {
 
 h1 {
   color: #d3d3d3;
+  font-size: 29px;
+  text-align: left;
 }
 
 h3 {
@@ -901,6 +903,7 @@ p.contacts {
 
 #service.our-service {
   background-color: #2e2e2e;
+  padding-bottom: 50px;
 }
 
 #gallery {
@@ -947,4 +950,19 @@ p.contacts {
 
 .text-shadow {
   text-shadow: 1px 1px 5px black;
+}
+
+li {
+  text-align: left;
+  font-size: 22px;
+  color: #d3d3d3;
+}
+
+section#skills {
+  background-color: #2E2E2E;
+  padding-bottom: 50px;
+}
+
+section#what-we-do {
+  padding-bottom: 50px;
 }
