@@ -969,10 +969,14 @@ section#what-we-do {
   padding-bottom: 50px;
 }
 
-img.thumbnail {
+/* img.thumbnail {
   height: 316px;
-}
+} */
 
+img#first.thumbnail {
+  height: 316px;
+  width: 225px;
+}
 .column-alignment{
   padding-left: 30px;
   width: 100%;
