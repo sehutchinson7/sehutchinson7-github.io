@@ -158,7 +158,7 @@ h2.section-title{
     margin-bottom: 16px;
 }
 .default-menu.navbar-default .navbar-nav > li > a{
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 600;
     letter-spacing: 0;
     line-height: 40px !important;
@@ -292,7 +292,7 @@ h2.section-title{
     color: #8FC93F;
 }
 .default-menu.menu-4 .navbar-nav > li > a{
-    /* color: #999; */
+    color: #d3d3d3;
 }
 .default-menu.menu-4 .navbar-nav > li > a:before,
 .default-menu.menu-4 .navbar-nav > li > a:after{
@@ -861,7 +861,9 @@ h4 {
 
 h2 {
   color: #d3d3d3;
+  font-size: 24px;
 }
+
 /* .img {
     position: relative;
     float: left;
