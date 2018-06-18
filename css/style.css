@@ -46,8 +46,10 @@ section{
 }
 
 .header-name, .sub-header {
-  text-shadow: 1px 1px 15px lightblue;
+  /* text-shadow: 1px 1px 15px lightblue; */
+  text-shadow: 1px 1px 5px black;
 }
+
 .small-tag {
     color: #777;
     font-family: "Raleway",sans-serif;
