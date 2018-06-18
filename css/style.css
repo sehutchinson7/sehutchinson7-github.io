@@ -8,9 +8,10 @@ body{
 }
 p{
     font-family: 'Open Sans', sans-serif;
-    font-size: 12.5px;
+    font-size: 18px;
     line-height: 20px;
-    font-weight: 100;
+    font-weight: 100px;
+    padding-top: 9px;
 }
 *{
     outline-color: transparent !important;
@@ -863,7 +864,8 @@ h4 {
 
 h2 {
   color: #d3d3d3;
-  font-size: 24px;
+  font-size: 22px;
+  /* text-align: left; */
 }
 
 /* .img {
@@ -983,4 +985,11 @@ img#first.thumbnail {
 .column-alignment{
   padding-left: 30px;
   width: 100%;
+}
+
+p {
+  font-size: 18px
+  color: #d3d3d3;
+  text-align: left;
+  line-height: 31px;
 }
