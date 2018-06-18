@@ -992,9 +992,10 @@ p.bio {
   color: #d3d3d3;
   text-align: left;
   line-height: 31px;
+  padding-right: 24px;
 }
 
 img.about-photo {
-  width: 511px;
+  width: 540px;
   height: auto;
 }
