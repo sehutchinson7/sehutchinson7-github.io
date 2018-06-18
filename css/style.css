@@ -511,10 +511,10 @@ section.recent-event{
 }
 
 .about-photo{
-    box-shadow: 1px 1px 16px lightblue;
-    margin-left: 50px;
+    /* box-shadow: 1px 1px 16px lightblue;
+    margin-left: 50px; */
     margin-bottom: 60px;
-    width: 40vw;
+    /* width: 40vw; */
 }
 
 .about-content h2{
@@ -992,4 +992,9 @@ p {
   color: #d3d3d3;
   text-align: left;
   line-height: 31px;
+}
+
+img.about-photo {
+  width: 511px;
+  height: auto;
 }
