@@ -904,7 +904,7 @@ a.contacts {
 
 p.contacts {
   font-size: 14px;
-  padding-top: 6px;
+  padding-top: 15px;
   color:#337ab7;
 }
 
@@ -987,7 +987,7 @@ img#first.thumbnail {
   width: 100%;
 }
 
-p {
+p.bio {
   font-size: 18px
   color: #d3d3d3;
   text-align: left;
